@@ -109,15 +109,12 @@ Key features visible in the centreline plots:
 
 - **Temperature**: Peak ~2,100 K at x ≈ 11 mm. The asymmetric profile reflects the
   displaced flame position — the fuel-side gradient is steeper because CH₄ diffuses
-  into a region already preheated by conduction from the flame. Two reference lines are
-  overlaid: the **adiabatic flame temperature** (T_ad = 2,223 K, dashed orange) and the
-  **measured range** from published CH₄/air counterflow experiments (1,800–2,050 K, green
-  band), which is lower due to radiative heat loss and dissociation of CO₂/H₂O at high
-  temperature. Our single-step result sits between the two — above the measured range
-  because the mechanism has no dissociation or radiation, but below T_ad because
-  incomplete mixing limits the peak. The dotted purple line marks the predicted flame
-  position from stoichiometry (Z_st = 0.055 for CH₄/air), confirming the flame correctly
-  sits displaced toward the air side.
+  into a region already preheated by conduction from the flame. The adiabatic flame
+  temperature for stoichiometric CH₄/air is 2,223 K; published measurements typically
+  show 1,800–2,050 K due to radiative heat loss and dissociation. Our single-step result
+  sits above the measured range because the mechanism has no dissociation or radiation.
+  The flame correctly sits displaced toward the air side, consistent with the
+  stoichiometric mixture fraction Z_st = 0.055 for CH₄/air.
 - **Species**: CH₄ and O₂ are mutually exclusive — they are fully consumed before
   reaching each other's inlet. CO₂ and H₂O peak sharply at the flame zone. The
   single-step mechanism produces no CO or H₂ intermediates, which real flames carry
