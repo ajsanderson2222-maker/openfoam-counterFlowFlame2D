@@ -1,0 +1,7 @@
+[1-9]*/
+0.*/
+postProcessing/
+VTK/
+log.*
+dynamicCode/
+constant/polyMesh/
